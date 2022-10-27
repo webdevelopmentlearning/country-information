@@ -1,0 +1,11 @@
+.imageStyle{
+    height: 100px;
+}
+.countryContainer{
+    border:1px solid red;
+    width: 450px;
+    height: auto;
+    padding:10px;
+    margin: 5px;
+    text-align: center;
+}
